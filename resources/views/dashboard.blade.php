@@ -1,4 +1,5 @@
-<x-app-layout>
+@extends('layouts.admin')
+{{-- <x-app-layout>
     <x-slot name="header">
         <h2 class="h4 font-weight-bold">
             {{ __('Dashboard') }}
@@ -6,4 +7,4 @@
     </x-slot>
 
     <x-jet-welcome />
-</x-app-layout>
+</x-app-layout> --}}
